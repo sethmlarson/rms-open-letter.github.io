@@ -462,7 +462,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Hexandcube
 1. Hidde Beydals
 1. Highlander Subaron (`HightechSec`)
-1. Holger Levsen (Debian Developer, reproducible-builds.org)
 1. Hubert Figuière
 1. Ian Jackson (Former Debian Project Leader; former President, Software in the Public Interest; GNU Maintainer)
 1. Ian Stapleton Cordasco
@@ -933,7 +932,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Roan Kattouw
 1. Robert Barat
 1. Robert Berg
-1. Robert Foss (Linux kernel dev)
 1. Robert Joslyn
 1. Robert Lipe (GPSBabel creator, contributor to open source since 87)
 1. Robert McQueen (President of the GNOME Foundation)
@@ -945,7 +943,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Rob Smith (SeaGL Co-Founder)
 1. Rob Vincent
 1. Robyn Speer (ConceptNet)
-1. Rojen Zaman
 1. Roger Light
 1. Rosanna Yuen (GNOME Foundation)
 1. Ross A. Baker
@@ -1001,6 +998,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Seebs
 1. SeongHyun Lee (Kevin Lee / 케빈 리)
 1. Seth Marinello (former CPLUG Officer)
+1. Seth Michael Larson (urllib3 lead maintainer)
 1. Seth McCombs
 1. Shane Coughlan
 1. Shane Fagan
