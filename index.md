@@ -184,7 +184,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Björn Fahller
 1. Blair Vidakovich (vidak)
 1. Bob Killen (Kubernetes Steering Committee Member)
-1. Bob Murphy (12 year associate member)
 1. Bonnie King
 1. Bram Hagens
 1. Brandon Butler
@@ -998,6 +997,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Seebs
 1. SeongHyun Lee (Kevin Lee / 케빈 리)
 1. Seth Marinello (former CPLUG Officer)
+1. Seth Michael Larson (urllib3 lead maintainer)
 1. Seth McCombs
 1. Shane Coughlan
 1. Shane Fagan
