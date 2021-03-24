@@ -657,7 +657,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Lander Van den Bulcke
 1. Langlais Raphael
 1. Lars Wirzenius
-1. Laura Arjona Reina
 1. Laura Lytle
 1. Laurence Berland
 1. Laurin Schmidt
@@ -1003,6 +1002,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Seebs
 1. SeongHyun Lee (Kevin Lee / 케빈 리)
 1. Seth Marinello (former CPLUG Officer)
+1. Seth Michael Larson (urllib3 lead maintainer)
 1. Seth McCombs
 1. Shane Coughlan
 1. Shane Fagan
